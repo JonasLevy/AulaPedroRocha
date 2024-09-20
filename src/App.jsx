@@ -12,7 +12,7 @@ function App() {
     {
       id:1,
       title: "Estudar programação",
-      description: "estudar todos os dias!",
+      description: "estudar todos os dias!" ,
       isCompleted: false
     },
     
